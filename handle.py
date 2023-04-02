@@ -1,7 +1,7 @@
 import hashlib
 import web
 import xml.etree.ElementTree as ET
-from first_python_server import receive, reply
+import receive, reply
 
 
 class Handle(object):
